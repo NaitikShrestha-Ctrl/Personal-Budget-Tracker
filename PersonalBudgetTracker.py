@@ -1,7 +1,5 @@
 """
 Personal Budget Tracker  — Dark Theme Edition
-Palette : Deep navy · Emerald green accents · Rich card surfaces
-Icons   : Unicode symbols throughout — nav, categories, KPIs, actions
 """
 
 import json
